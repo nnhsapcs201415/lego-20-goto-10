@@ -1,7 +1,4 @@
-import lejos.nxt.Button;
-import lejos.nxt.Motor;
-import lejos.nxt.SensorPort;
-import lejos.nxt.TouchSensor;
+import lejos.nxt.*;
 import lejos.robotics.navigation.DifferentialPilot;
 
 /**

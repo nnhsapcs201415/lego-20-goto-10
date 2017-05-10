@@ -1,4 +1,5 @@
-public class ObjectDetect implements FeatureListener {
+public class ObjectDetect
+{
 
 	public static int MAX_DETECT = 80;
 	
